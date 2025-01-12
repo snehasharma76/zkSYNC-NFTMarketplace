@@ -1,0 +1,19 @@
+{
+  "name": "zksync-nft-marketplace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@matterlabs/hardhat-zksync-deploy": "^1.6.0",
+    "@matterlabs/hardhat-zksync-solc": "^1.2.5",
+    "@matterlabs/hardhat-zksync-verify": "^1.7.1",
+    "@openzeppelin/contracts": "^5.2.0",
+    "hardhat": "^2.22.17"
+  }
+}
